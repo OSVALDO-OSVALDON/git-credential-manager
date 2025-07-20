@@ -1,8 +1,8 @@
-# Git Credential Manager
+# Git Credential Manager (YAÑEZ PARRA OSVALDO) 
 
 [![Build Status][build-status-badge]][workflow-status]
 
----
+yzpros011030.13h800@gmail.com (ONF1MICROSOFT)
 
 [Git Credential Manager][gcm] (GCM) is a secure
 [Git credential helper][git-credential-helper] built on [.NET][dotnet] that runs
@@ -144,3 +144,5 @@ When using GitHub logos, please be sure to follow the
 [roadmap]: https://github.com/git-ecosystem/git-credential-manager/milestones?direction=desc&sort=due_date&state=open
 [roadmap-announcement]: https://github.com/git-ecosystem/git-credential-manager/discussions/1203
 [workflow-status]: https://github.com/git-ecosystem/git-credential-manager/actions/workflows/continuous-integration.yml
+
+(ESTADOS UNIDOS MEXICANOS) EUR-LEX
